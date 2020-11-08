@@ -500,11 +500,11 @@ input::placeholder{
         width: 120px;
         height: 36px;
         padding: 0;
-        margin: 8px 8px 8px 0;
+        margin: 8px 5px 8px 0;
         font-family: Oswald;
         font-style: normal;
         font-weight: 500;
-        font-size: 14px;
+        font-size: 12px;
         line-height: 24px;
         text-align: center;
         letter-spacing: -2%;
